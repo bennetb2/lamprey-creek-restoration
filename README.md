@@ -1,21 +1,20 @@
-# Functional Ecosystem Restoration of Lamprey Creek Area for Native Flora Expansion and Improved Flood Storage
-Senior design project for wetland restoration of Lamprey Creek.
-Authors: Anna Burton, Brooke Bennett, Derec Chumley
+### Functional Ecosystem Restoration of Lamprey Creek Area for Native Flora Expansion and Improved Flood Storage
+Authors: Anna Burton, Brooke Bennett, Derec Chumley.
 
-## Folder 1
+#### Folder 1
 Description
-### File Name 1
+__File Name 1__
 Description
-### File Name 2
+__File Name 2__
 Description
-### File Name 3
+__File Name 3__
 Description
 
-## Folder 2
+#### Folder 2
 Description
-### File Name 1
+__File Name 1__
 Description
-### File Name 2
+__File Name 2__
 Description
-### File Name 3
+__File Name 3__
 Description
